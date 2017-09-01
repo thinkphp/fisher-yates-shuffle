@@ -1,4 +1,5 @@
-#Fisher Yates Shuffle 
+Fisher Yates Shuffle 
+--------------------
 
 It's an algorithm for generating a random permutation of a finit sequence - in plain terms, the algorithm shuffles the sequence.
 
